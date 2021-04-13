@@ -174,41 +174,16 @@ body {
 
 
 /*flipcard start*/
-.flitskaart {
+.flitskaart , .flitskaart1 , .flitskaart2, .flitskaart3    {
    background-color: #315E8D;
-   height: 150px;
-   width: 150px;
+   height: 175px;
+   width: 175px;
    margin: auto;
    border-radius: 20px;
    
 }
 
-.flitskaart1 {
-   background-color: #315E8D;
-   height: 150px;
-   width: 150px;
-   margin: auto;
-   border-radius: 20px;
-   
-}
 
-.flitskaart2 {
-   background-color: #315E8D;
-   height: 150px;
-   width: 150px;
-   margin: auto;
-   border-radius: 20px;
-   
-}
-
-.flitskaart3 {
-   background-color: #315E8D;
-   height: 150px;
-   width: 150px;
-   margin: auto;
-   border-radius: 20px;
-   
-}
 
 .ptext{
    font-size: 1.5em;
